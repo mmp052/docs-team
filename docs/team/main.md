@@ -22,7 +22,7 @@ Para isso, criamos um EKS Cluster.
 
 Os testes de carga são uma parte importante do desenvolvimento de software, pois ajudam a garantir que sua aplicação possa lidar com o tráfego esperado. 
 
-[Teste de Carga](youtube)
+[Teste de Carga](https://youtu.be/bBthFTXvDqw)
 
 ## CI/CD
 
@@ -61,7 +61,7 @@ O código-fonte do arquivo Jekinsfile pode ser visto abaixo:
 
 A análise de custos é uma parte importante do desenvolvimento de software, já que ajuda a garantir que o projeto esteja dentro do orçamento.
 
-[Análise de Custo](custos)
+de acordo com nossa analise, o custo seria de 480 dolares por mes.
 
 ## PaaS
 
